@@ -19,7 +19,7 @@ Reading is essential for those who seek to rise above the ordinary.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://bag-ok.blogspot.com/2017/12/background-design-hd-wallpaper.html) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
