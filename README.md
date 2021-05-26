@@ -1,14 +1,11 @@
-## Welcome to GitHub Pages
+## My Book Hub
+
+We Read to Know, We're not Alone.
+
+### Today a READER, Tomorrow a LEADER.
 
 Reading is essential for those who seek to rise above the ordinary.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
