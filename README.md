@@ -9,17 +9,16 @@ Reading is essential for those who seek to rise above the ordinary.
 
 # What are the benefits of reading a book?
 ## Reading is beneficial to your health since it increases your concentration, memory, empathy, and communication abilities. It can help you live longer by reducing stress and improving your mental health. Reading allows you to develop new skills that will help you excel at job and in your relationships.
-### Header 3
 
-- Bulleted
-- List
+### Example of Educational books
 
-1. Numbered
-2. List
+- DEMOCRACY AND EDUCATION by John Dewey
+- THE END OF EDUCATION by Neil Postman
+- PEDAGOGY of the OPPRESSED by PAULO FREIRE
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](https://bag-ok.blogspot.com/2017/12/background-design-hd-wallpaper.html) and ![Image](src)
+Once You Learn To READ, You Will Be FOREVER Free.
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
