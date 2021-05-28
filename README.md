@@ -8,7 +8,7 @@ Reading is essential for those who seek to rise above the ordinary.
 
 
 # What are the benefits of reading a book?
-## Header 2
+## Reading is beneficial to your health since it increases your concentration, memory, empathy, and communication abilities. It can help you live longer by reducing stress and improving your mental health. Reading allows you to develop new skills that will help you excel at job and in your relationships.
 ### Header 3
 
 - Bulleted
